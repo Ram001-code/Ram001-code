@@ -1,6 +1,6 @@
 # Hi there, I'm Ram Kansal 👋
 
-Welcome to my GitHub profile! I'm a passionate **cybersecurity enthusiast**, **penetration tester**, and a budding **software developer**. My primary interests revolve around **network security**, **project planning**, and **open-source contributions**. 
+## Welcome to my GitHub profile! I'm a passionate **cybersecurity enthusiast**, **penetration tester**, and a budding **software developer**. My primary interests revolve around **network security**, **project planning**, and **open-source contributions**. 
 
 ---
 
