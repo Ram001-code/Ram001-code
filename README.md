@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 **Education**: Pursuing a Bachelor of Technology at **MIT-WPU**, Pune.
-- 🌐 **Website**: [ramksites.site](https://ramksites.site)
+- 🌐 **Website**: [ramkansal.com](https://ramkansal.com)
 - 💌 **Email**: [ramkansal9822@gmail.com](mailto:ramkansal9822@gmail.com)
 - 🔗 **LinkedIn**: [Ram Kansal](https://www.linkedin.com/in/ram-kansal-7758a72b1/)
 - 📈 **HackTheBox Rank**: #823  
