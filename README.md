@@ -9,7 +9,7 @@
 - 🌐 **Website**: [ramkansal.com](https://ramkansal.com)
 - 💌 **Email**: [ramkansal9822@gmail.com](mailto:ramkansal9822@gmail.com)
 - 🔗 **LinkedIn**: [Ram Kansal](https://www.linkedin.com/in/ramkansal/)
-- 📈 **HackTheBox Rank**: #***815***  
+- 📈 **HackTheBox Rank**: #***831***  
   - [HTB Profile](https://app.hackthebox.com/profile/1911733)
 
 ---
